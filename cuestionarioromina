@@ -1,0 +1,11 @@
+¿Que es un sistema operativo(SO)?
+Es un conjunto de programas que sirve como intermediario entre el usuario y el hardware de una computadora o dispositivo,su funcion principal es administrar los recursos del sistema y permitir que otros programas funcionen correctamente  
+EJEMPLOS DE TAREAS QUE REALIZA UN SISTEMA OPERATIVO 
+-ADMINISTRAR DE LA MEMORIA RAM: Decide que programas pueden usar la memoria y cuanto espacio ocuparan, para que no se saturen 
+-CONTROLAR DISPOSITIVO INTERNOS: Hace posible que uses impresoras, teclados, pantallas o USB sin tener que dar instrucciones directas al hardware
+-GESTIONAR ARCHIVOS: Permite crear, abrir, mover, copiar y borrar documentos o aplicaciones dentro del almacenamiento de dispositivo 
+EJEMPLOS DE SISTEMAS OPERATIVOS 
+-Unix 
+-chrome OS 
+-FreeBSD
+-Solares 
